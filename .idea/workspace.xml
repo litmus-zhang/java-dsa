@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1bbc41c-271d-4866-abef-25faad3a6631" name="Changes" comment="#Getting Started: Basic Java Structures sorted">
+    <list default="true" id="a1bbc41c-271d-4866-abef-25faad3a6631" name="Changes" comment="#Set : Completed set data structure and method in  Java">
+      <change afterPath="$PROJECT_DIR$/src/com/litmus/WorkingWithMaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/litmus/WorkingWithSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/litmus/WorkingWithSets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +34,30 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "create.test.in.the.same.root": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="WorkingWithMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.litmus.WorkingWithMaps" />
+      <module name="java-dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.litmus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WorkingWithMaps" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668248190111</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#Set : Completed set data structure and method in  Java">
+      <created>1668249208169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668249208169</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,6 +97,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#Getting Started: Basic Java Structures sorted" />
-    <option name="LAST_COMMIT_MESSAGE" value="#Getting Started: Basic Java Structures sorted" />
+    <MESSAGE value="#Set : Completed set data structure and method in  Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="#Set : Completed set data structure and method in  Java" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_dsa$WorkingWithMaps.ic" NAME="WorkingWithMaps Coverage Results" MODIFIED="1668249904008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.litmus.*</FILTER>
+    </SUITE>
   </component>
 </project>
