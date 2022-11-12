@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1bbc41c-271d-4866-abef-25faad3a6631" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-dsa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/litmus/TheArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/litmus/WorkWith2DArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/litmus/WorkingWithList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/litmus/WorkingWithQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/litmus/WorkingWithStack.java" afterDir="false" />
+    <list default="true" id="a1bbc41c-271d-4866-abef-25faad3a6631" name="Changes" comment="#Getting Started: Basic Java Structures sorted">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/litmus/WorkingWithSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/litmus/WorkingWithSets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668243184268</updated>
     </task>
+    <task id="LOCAL-00001" summary="#Getting Started: Basic Java Structures sorted">
+      <created>1668248190111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668248190111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#Getting Started: Basic Java Structures sorted" />
+    <option name="LAST_COMMIT_MESSAGE" value="#Getting Started: Basic Java Structures sorted" />
   </component>
 </project>
